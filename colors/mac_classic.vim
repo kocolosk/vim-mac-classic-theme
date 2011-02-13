@@ -87,7 +87,7 @@ hi StorageClass  guifg=#1E39F6 ctermfg=27 gui=bold
 hi String  guifg=#007B22 ctermfg=28
 hi Title  guifg=#000000 ctermfg=0 gui=bold
 hi Todo  guifg=#0066FF ctermfg=27 gui=inverse,bold,italic
-hi Underlined  gui=underline
+hi Underlined guifg=#000000 ctermfg=0
 
 " Invisible character colors
 hi NonText  guifg=#DFDFDF ctermfg=253 guibg=#FFFFFF ctermbg=15
